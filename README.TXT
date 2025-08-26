@@ -43,5 +43,3 @@ to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
 
  -Vanier hello
- 
- -i wanna make games
